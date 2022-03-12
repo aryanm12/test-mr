@@ -1,1 +1,1 @@
-Let's try to create a merge conflict scnerio
+We are simulating a merge conflict from mg-cf-sim-1
